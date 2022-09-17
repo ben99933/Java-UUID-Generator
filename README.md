@@ -2,5 +2,8 @@
 可以一次產生多個uuid
 ## 用法
 >java -jar uuid.jar
-<br></br>或者<br></br>
->java -jar uuid.jar <amount>
+<br></br>當你想要一次產生多個uuid時可以使用搭配參數<br></br>
+>java -jar uuid.jar **amount**
+<br></br>參數amount最多可以到32767<br></br>
+<br></br>或者你可以直接使用<br></br>
+>java -jar uuid.jar max
