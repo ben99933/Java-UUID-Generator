@@ -1,7 +1,7 @@
 # Java-UUID-Generator
 可以一次產生多個uuid
 ## 下載
-<a href="https://github.com/ben99933/Java-UUID-Generator/releases">release</a>
+<a href="https://github.com/ben99933/Java-UUID-Generator/releases">releases</a>
 ## 用法
 在命令列使用以下語法
 >java -jar uuid.jar
