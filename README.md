@@ -2,5 +2,5 @@
 可以一次產生多個uuid
 ## 用法
 >java -jar uuid.jar
-或者
+<br></br>或者<br></br>
 >java -jar uuid.jar <amount>
