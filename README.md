@@ -9,7 +9,7 @@
   當你想要一次產生多個uuid時可以在後面加上數字
 </p>
 
->java -jar uuid.jar **amount**
+>java -jar uuid.jar <**amount**>
 
 <p>
  參數amount的最大值可以到32767<br>
